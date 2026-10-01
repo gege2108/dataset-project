@@ -2,6 +2,8 @@
 
 But: projet visant à construire un dataset synthétique sur la reproduction sociale en Europe à partir de plusieurs sources ouvertes (possibilité d’ajouter d’autres sources ensuite).
 
+> 📊 **Visualisation** : la visualisation interactive de ce dataset est disponible dans un autre dépôt GitHub : [datavisualization-SocialReproductionEurope](https://github.com/gege2108/datavisualization-SocialReproductionEurope)
+
 ## Objectif
 Assembler et harmoniser plusieurs indicateurs liés à la mobilité/reproduction sociale (résultats scolaires et lien intergénérationnel) pour un jeu de données comparatif par pays européens.
 
@@ -33,3 +35,6 @@ Remarque : certaines sources proposent l’export direct en CSV/Excel (voir ongl
 - data/processed/ (fichiers nettoyés et jeu final)  
 - scripts/ (scripts de nettoyage et d'agrégation)  
 - docs/ (notes méthodologiques, licences, sources)
+
+## Visualisation
+Les données produites par ce projet sont exploitées dans un notebook de visualisation interactive, disponible dans le dépôt [datavisualization-SocialReproductionEurope](https://github.com/gege2108/datavisualization-SocialReproductionEurope).
